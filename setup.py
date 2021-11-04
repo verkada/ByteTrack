@@ -48,7 +48,7 @@ with open("yolox/__init__.py", "r") as f:
 
 
 with open("README.md", "r") as f:
-    long_description = f.read()
+    long_description = "" #f.read()
 
 
 setuptools.setup(
